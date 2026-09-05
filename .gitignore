@@ -1,0 +1,55 @@
+﻿# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face / ML caches
+.cache/
+.huggingface/
+huggingface/
+**/.cache/
+
+# Base models / large model weights
+models/**/*.safetensors
+models/**/*.bin
+models/**/*.pt
+models/**/*.pth
+models/**/*.gguf
+
+# Training checkpoints
+**/checkpoint-*/
+**/checkpoints/
+
+# Generated outputs
+outputs/**/*.log
+outputs/**/*.tmp
+outputs/**/*.jsonl
+
+# Runtime logs
+*.log
+output.txt
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# External datasets - download separately
+data/raw/finqa/
+data/raw/ncert/

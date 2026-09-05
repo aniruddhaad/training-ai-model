@@ -1,0 +1,29 @@
+{"instruction":"What is revenue?","response":"Revenue is the income a company earns from selling goods or providing services to customers."}
+{"instruction":"What is an asset?","response":"An asset is a resource controlled by a company that is expected to provide future economic benefits."}
+{"instruction":"What is a liability?","response":"A liability is an obligation of a company that is expected to result in an outflow of economic resources."}
+{"instruction":"What is equity?","response":"Equity is the residual interest in a company's assets after subtracting its liabilities."}
+{"instruction":"What is the basic accounting equation?","response":"The basic accounting equation is Assets = Liabilities + Equity."}
+{"instruction":"If a company has assets of $100,000 and liabilities of $40,000, what is its equity?","response":"Equity is $60,000 because Equity = Assets - Liabilities = $100,000 - $40,000."}
+{"instruction":"If assets are $250,000 and equity is $90,000, what are liabilities?","response":"Liabilities are $160,000 because Liabilities = Assets - Equity = $250,000 - $90,000."}
+{"instruction":"What is an income statement?","response":"An income statement reports a company's revenues, expenses, and resulting profit or loss over a period of time."}
+{"instruction":"What is a balance sheet?","response":"A balance sheet reports a company's assets, liabilities, and equity at a specific point in time."}
+{"instruction":"What is cash flow?","response":"Cash flow is the movement of cash into and out of a company during a period."}
+{"instruction":"What is gross profit?","response":"Gross profit is revenue minus cost of goods sold."}
+{"instruction":"If revenue is $500,000 and cost of goods sold is $300,000, what is gross profit?","response":"Gross profit is $200,000 because $500,000 - $300,000 = $200,000."}
+{"instruction":"What is operating profit?","response":"Operating profit is profit generated from a company's normal operations after subtracting operating expenses from gross profit."}
+{"instruction":"What is net profit?","response":"Net profit is the profit remaining after subtracting all applicable expenses, interest, and taxes from revenue."}
+{"instruction":"What is an expense?","response":"An expense is a cost incurred by a company in the process of generating revenue."}
+{"instruction":"What is accounts receivable?","response":"Accounts receivable represents money owed to a company by customers for goods or services already provided on credit."}
+{"instruction":"What is accounts payable?","response":"Accounts payable represents amounts a company owes to suppliers or other parties for goods or services received."}
+{"instruction":"What happens to profit if revenue increases while all expenses remain unchanged?","response":"Profit increases by the amount of the increase in revenue, assuming all other factors remain unchanged."}
+{"instruction":"If revenue increases from $1,000,000 to $1,100,000, what is the percentage increase?","response":"Revenue increased by 10%, calculated as ($1,100,000 - $1,000,000) / $1,000,000 × 100."}
+{"instruction":"If a company's revenue is $800,000 and its expenses are $620,000, what is its profit?","response":"The company's profit is $180,000 because profit = revenue - expenses = $800,000 - $620,000."}
+{"instruction":"What is depreciation?","response":"Depreciation is the systematic allocation of the cost of a tangible long-term asset over its useful life."}
+{"instruction":"Does depreciation usually represent a current-period cash payment?","response":"No. Depreciation is generally a non-cash expense that allocates the cost of a long-term asset over time."}
+{"instruction":"What is working capital?","response":"Working capital is generally calculated as current assets minus current liabilities."}
+{"instruction":"If current assets are $120,000 and current liabilities are $75,000, what is working capital?","response":"Working capital is $45,000 because $120,000 - $75,000 = $45,000."}
+{"instruction":"What is a profit margin?","response":"Profit margin measures profit as a percentage of revenue and is generally calculated as profit divided by revenue multiplied by 100."}
+{"instruction":"If profit is $50,000 and revenue is $500,000, what is the profit margin?","response":"The profit margin is 10%, calculated as $50,000 / $500,000 × 100."}
+{"instruction":"What is EBITDA?","response":"EBITDA stands for earnings before interest, taxes, depreciation, and amortization. It is commonly used as a measure of operating performance before these items."}
+{"instruction":"What is the difference between revenue and profit?","response":"Revenue is the income generated from selling goods or services, while profit is the amount remaining after applicable expenses are deducted from revenue."}
+{"instruction":"Why can a profitable company have negative cash flow?","response":"A company can be profitable but have negative cash flow because accounting profit and cash movement are different. For example, cash may be tied up in accounts receivable or used for capital expenditures."}

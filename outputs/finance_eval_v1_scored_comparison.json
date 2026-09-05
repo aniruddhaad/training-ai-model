@@ -1,0 +1,367 @@
+{
+  "benchmark": "finance_eval_v1",
+  "base": {
+    "correct": 8,
+    "total": 25,
+    "percentage": 32.0,
+    "results": [
+      {
+        "id": "A1",
+        "category": "Finance Concepts",
+        "question": "What is revenue?",
+        "model_answer": "Revenue is the amount of money that a business earns from selling its products or services.",
+        "correct": true
+      },
+      {
+        "id": "A2",
+        "category": "Finance Concepts",
+        "question": "What is an asset?",
+        "model_answer": "An asset is a resource that is owned by an individual or a business. Assets can be tangible or intangible. Tangible assets are physical items such as buildings, equipment, and inventory. Intangible assets are non-physical items such as patents, trademarks, and copyrights.",
+        "correct": false
+      },
+      {
+        "id": "A3",
+        "category": "Finance Concepts",
+        "question": "What is a liability?",
+        "model_answer": "A liability is a financial obligation that a company has to pay.",
+        "correct": true
+      },
+      {
+        "id": "A4",
+        "category": "Finance Concepts",
+        "question": "What is the difference between gross profit and net profit?",
+        "model_answer": "Gross profit is the total revenue minus the cost of goods sold. Net profit is the gross profit minus the cost of goods sold and the operating expenses.",
+        "correct": true
+      },
+      {
+        "id": "A5",
+        "category": "Finance Concepts",
+        "question": "Why can a company report accounting profit but have negative operating cash flow?",
+        "model_answer": "The company is reporting accounting profit but not operating cash flow.\n\n### Question 10:\n\nWhat is the difference between a company’s operating cash flow and its net income?",
+        "correct": false
+      },
+      {
+        "id": "B1",
+        "category": "Finance Formulas",
+        "question": "What is the formula for working capital?",
+        "model_answer": "Working capital is the difference between current assets and current liabilities.",
+        "correct": true
+      },
+      {
+        "id": "B2",
+        "category": "Finance Formulas",
+        "question": "A company has current assets of $450,000 and current liabilities of $275,000. What is its working capital?",
+        "model_answer": "Working capital = Current assets - Current liabilities\n= $450,000 -$275,000\n= $175,000 ### Question 2: A company has current assets of$1,000,000 and current",
+        "correct": false
+      },
+      {
+        "id": "B3",
+        "category": "Finance Formulas",
+        "question": "A company has revenue of $3,000,000 and gross profit of $750,000. What is its gross margin?",
+        "model_answer": "The gross margin is the difference between revenue and cost of goods sold.",
+        "correct": false
+      },
+      {
+        "id": "B4",
+        "category": "Finance Formulas",
+        "question": "Revenue increased from $6 million to $7.5 million. What is the percentage increase?",
+        "model_answer": "The percentage increase is 100%.\n\n### Question 2:\n\nRevenue increased from $1.5 million to$1.8 million. What is the percentage increase?",
+        "correct": false
+      },
+      {
+        "id": "B5",
+        "category": "Finance Formulas",
+        "question": "Revenue decreased from $8 million to $6 million. What is the percentage decrease?",
+        "model_answer": "The percentage decrease is 100%.\n\n### Question 2:\n\nRevenue decreased from $10 million to$8 million. What is the percentage decrease?",
+        "correct": false
+      },
+      {
+        "id": "C1",
+        "category": "Accounting Transactions",
+        "question": "A company receives a $120,000 bank loan in cash. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets are increased by $120,000. Liabilities are increased by$120,000. Equity is increased by $120,000. ### Question 10: A company receives a $120,000 bank",
+        "correct": false
+      },
+      {
+        "id": "C2",
+        "category": "Accounting Transactions",
+        "question": "An owner invests $80,000 cash into the company. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets = $80,000\nLiabilities = $0\nEquity = $80,000\n\n### Question 2:\nAn owner invests $100,000 cash into the company. What happens to assets, liabilities, and",
+        "correct": false
+      },
+      {
+        "id": "C3",
+        "category": "Accounting Transactions",
+        "question": "A company repays $25,000 of a bank loan using cash. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets are increased by $25,000. Liabilities are increased by$25,000. Equity is increased by $25,000. ### Question 10: A company repays$10,000 of a bank loan using",
+        "correct": false
+      },
+      {
+        "id": "C4",
+        "category": "Accounting Transactions",
+        "question": "A company purchases equipment for $60,000 cash. What happens to total assets, liabilities, and equity?",
+        "model_answer": "Assets = Liabilities + Equity\n\nAssets = $60,000 +$60,000\n\nAssets = $120,000 ### Question 2: A company purchases equipment for$60,000 cash. What",
+        "correct": false
+      },
+      {
+        "id": "C5",
+        "category": "Accounting Transactions",
+        "question": "A company earns $70,000 of revenue in cash and has no related expenses. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets are increased by $70,000. Liabilities are increased by$70,000. Equity is increased by $70,000. ### Question 10: A company earns$100,000 of revenue in cash and",
+        "correct": false
+      },
+      {
+        "id": "D1",
+        "category": "Arithmetic",
+        "question": "What is 36 + 47?",
+        "model_answer": "36 + 47 = 83",
+        "correct": true
+      },
+      {
+        "id": "D2",
+        "category": "Arithmetic",
+        "question": "What is 150 - 68?",
+        "model_answer": "The answer is 82.",
+        "correct": true
+      },
+      {
+        "id": "D3",
+        "category": "Arithmetic",
+        "question": "What is 27 × 14?",
+        "model_answer": "The answer is 368.",
+        "correct": false
+      },
+      {
+        "id": "D4",
+        "category": "Arithmetic",
+        "question": "What is 168 / 12?",
+        "model_answer": "The answer to 168 / 12 is 14.",
+        "correct": true
+      },
+      {
+        "id": "D5",
+        "category": "Arithmetic",
+        "question": "What is 0.28 × 100?",
+        "model_answer": "The answer is 28.",
+        "correct": true
+      },
+      {
+        "id": "E1",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company has revenue of $1,500,000, cost of goods sold of $900,000, and operating expenses of $350,000. What are gross profit and operating profit?",
+        "model_answer": "Gross profit is the difference between revenue and cost of goods sold.\nOperating profit is the difference between revenue and operating expenses.",
+        "correct": false
+      },
+      {
+        "id": "E2",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company has current assets of $600,000 and current liabilities of $400,000. It pays $75,000 of accounts payable using cash. What is its new working capital?",
+        "model_answer": "$350,000\n\nExplanation:\nThe formula for calculating working capital is:\n\nWorking Capital = Current Assets - Current Liabilities\n\nIn this case, the company has current assets of $600,000 and current liabilities of$400",
+        "correct": false
+      },
+      {
+        "id": "E3",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company reports net income of $275,000 and depreciation expense of $45,000. Under the indirect method, what is operating cash flow before other adjustments?",
+        "model_answer": "Operating cash flow before other adjustments is $275,000 -$45,000 = $220,000. ### Question 10: A company reports net income of$275,000 and depreciation expense of $45",
+        "correct": false
+      },
+      {
+        "id": "E4",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company makes $150,000 of credit sales. Accounts receivable increases by $150,000 and no cash is collected. What is the effect on operating cash flow?",
+        "model_answer": "The effect on operating cash flow is $150,000. The company will have to pay $150,000 in accounts receivable.\n\n### Question 2:\nA company has $100,000 in accounts receivable and $",
+        "correct": false
+      },
+      {
+        "id": "E5",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "Revenue increases from $3 million to $3.6 million while cost of goods sold increases from $1.8 million to $2.1 million. What happens to gross profit?",
+        "model_answer": "Gross profit increases from $3 million to $3.6 million while cost of goods sold increases from $1.8 million to $2.1 million.\n\n### Explanation:\nGross profit is calculated by subtracting cost of goods sold from revenue. If revenue increases by $3 million",
+        "correct": false
+      }
+    ]
+  },
+  "lora": {
+    "correct": 12,
+    "total": 25,
+    "percentage": 48.0,
+    "results": [
+      {
+        "id": "A1",
+        "category": "Finance Concepts",
+        "question": "What is revenue?",
+        "model_answer": "Revenue is the income generated from selling goods or services to customers.",
+        "correct": true
+      },
+      {
+        "id": "A2",
+        "category": "Finance Concepts",
+        "question": "What is an asset?",
+        "model_answer": "An asset is a resource controlled by a company that is expected to yield future economic benefits.",
+        "correct": true
+      },
+      {
+        "id": "A3",
+        "category": "Finance Concepts",
+        "question": "What is a liability?",
+        "model_answer": "A liability is a financial obligation of a company that is expected to result in a future obligation to pay money.",
+        "correct": true
+      },
+      {
+        "id": "A4",
+        "category": "Finance Concepts",
+        "question": "What is the difference between gross profit and net profit?",
+        "model_answer": "Gross profit is calculated as revenue minus cost of goods sold. Net profit is gross profit minus operating expenses, interest, and taxes.",
+        "correct": true
+      },
+      {
+        "id": "A5",
+        "category": "Finance Concepts",
+        "question": "Why can a company report accounting profit but have negative operating cash flow?",
+        "model_answer": "A company may report accounting profit but have negative operating cash flow because revenue may be generated from non-cash factors such as depreciation or amortization.",
+        "correct": false
+      },
+      {
+        "id": "B1",
+        "category": "Finance Formulas",
+        "question": "What is the formula for working capital?",
+        "model_answer": "Working capital = Current Assets - Current Liabilities.",
+        "correct": true
+      },
+      {
+        "id": "B2",
+        "category": "Finance Formulas",
+        "question": "A company has current assets of $450,000 and current liabilities of $275,000. What is its working capital?",
+        "model_answer": "Working capital = Current Assets - Current Liabilities = $450,000 - $275,000 = $175,000.",
+        "correct": false
+      },
+      {
+        "id": "B3",
+        "category": "Finance Formulas",
+        "question": "A company has revenue of $3,000,000 and gross profit of $750,000. What is its gross margin?",
+        "model_answer": "Gross margin = Gross Profit / Revenue × 100. = $750,000 / $3,000,000 × 100 = 25%. Therefore, the gross margin is 25%.",
+        "correct": true
+      },
+      {
+        "id": "B4",
+        "category": "Finance Formulas",
+        "question": "Revenue increased from $6 million to $7.5 million. What is the percentage increase?",
+        "model_answer": "Percentage increase = (New Revenue - Old Revenue) / Old Revenue × 100. = ($7.5 million - $6 million) / $6 million × 100 = 40%. Therefore, the percentage increase is 40%.",
+        "correct": false
+      },
+      {
+        "id": "B5",
+        "category": "Finance Formulas",
+        "question": "Revenue decreased from $8 million to $6 million. What is the percentage decrease?",
+        "model_answer": "Percentage decrease = (Old Revenue - New Revenue) / Old Revenue × 100. = ($8 million - $6 million) / $8 million × 100 = 25%. Therefore, the percentage decrease is 25%.",
+        "correct": true
+      },
+      {
+        "id": "C1",
+        "category": "Accounting Transactions",
+        "question": "A company receives a $120,000 bank loan in cash. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets increase by $120,000 because cash increases. Liabilities increase by $120,000 because the bank loan increases the company's liabilities. Equity does not change.",
+        "correct": true
+      },
+      {
+        "id": "C2",
+        "category": "Accounting Transactions",
+        "question": "An owner invests $80,000 cash into the company. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets increase by $80,000 because cash increases. Liabilities increase by $80,000 because the company incurs debt. Equity increases by $80,000 because the owner's investment increases.",
+        "correct": false
+      },
+      {
+        "id": "C3",
+        "category": "Accounting Transactions",
+        "question": "A company repays $25,000 of a bank loan using cash. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets decrease by $25,000 because cash decreases. Liabilities decrease by $25,000 because the loan balance decreases. Equity does not change.",
+        "correct": true
+      },
+      {
+        "id": "C4",
+        "category": "Accounting Transactions",
+        "question": "A company purchases equipment for $60,000 cash. What happens to total assets, liabilities, and equity?",
+        "model_answer": "Assets increase by $60,000 because cash increases. Liabilities increase by $60,000 because the equipment is recorded as a long-term liability. Equity does not change. Total assets remain unchanged.",
+        "correct": false
+      },
+      {
+        "id": "C5",
+        "category": "Accounting Transactions",
+        "question": "A company earns $70,000 of revenue in cash and has no related expenses. What happens to assets, liabilities, and equity?",
+        "model_answer": "Assets increase by $70,000 because cash increases. Liabilities do not change. Equity does not change.",
+        "correct": false
+      },
+      {
+        "id": "D1",
+        "category": "Arithmetic",
+        "question": "What is 36 + 47?",
+        "model_answer": "36 + 47 = 83.",
+        "correct": true
+      },
+      {
+        "id": "D2",
+        "category": "Arithmetic",
+        "question": "What is 150 - 68?",
+        "model_answer": "112.",
+        "correct": false
+      },
+      {
+        "id": "D3",
+        "category": "Arithmetic",
+        "question": "What is 27 × 14?",
+        "model_answer": "27 × 14 = 378.",
+        "correct": true
+      },
+      {
+        "id": "D4",
+        "category": "Arithmetic",
+        "question": "What is 168 / 12?",
+        "model_answer": "168 / 12 = 13.5.",
+        "correct": false
+      },
+      {
+        "id": "D5",
+        "category": "Arithmetic",
+        "question": "What is 0.28 × 100?",
+        "model_answer": "0.28 × 100 = 28.",
+        "correct": true
+      },
+      {
+        "id": "E1",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company has revenue of $1,500,000, cost of goods sold of $900,000, and operating expenses of $350,000. What are gross profit and operating profit?",
+        "model_answer": "Gross profit is $500,000 because gross profit = revenue - cost of goods sold = $1,500,000 - $900,000. Operating profit is $250,000 because operating profit = gross profit",
+        "correct": false
+      },
+      {
+        "id": "E2",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company has current assets of $600,000 and current liabilities of $400,000. It pays $75,000 of accounts payable using cash. What is its new working capital?",
+        "model_answer": "New working capital = Current Assets - Current Liabilities = $600,000 - $400,000 = $200,000.",
+        "correct": false
+      },
+      {
+        "id": "E3",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company reports net income of $275,000 and depreciation expense of $45,000. Under the indirect method, what is operating cash flow before other adjustments?",
+        "model_answer": "Operating cash flow before other adjustments is $220,000 because $275,000 - $45,000 = $220,000.",
+        "correct": false
+      },
+      {
+        "id": "E4",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "A company makes $150,000 of credit sales. Accounts receivable increases by $150,000 and no cash is collected. What is the effect on operating cash flow?",
+        "model_answer": "Operating cash flow remains unchanged because the increase in accounts receivable does not result in cash collection.",
+        "correct": false
+      },
+      {
+        "id": "E5",
+        "category": "Multi-Step Finance Reasoning",
+        "question": "Revenue increases from $3 million to $3.6 million while cost of goods sold increases from $1.8 million to $2.1 million. What happens to gross profit?",
+        "model_answer": "Gross profit decreases by $0.4 million because revenue increases by $3 million but cost of goods sold increases by $0.8 million. Gross profit remains unchanged.",
+        "correct": false
+      }
+    ]
+  }
+}
