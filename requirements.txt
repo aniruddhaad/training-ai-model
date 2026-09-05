@@ -1,0 +1,19 @@
+﻿```text
+# FinMod — Finance & Accounting LLM
+# Python: 3.11.9
+#
+# Current reproducibility baseline for the local training/evaluation environment.
+
+# Machine Learning
+torch==2.14.0
+transformers==5.16.1
+peft==0.20.0
+accelerate==1.14.0
+
+# Data / Evaluation
+pandas==3.0.5
+numpy==2.4.6
+
+# Development / Notebooks
+jupyter
+ipykernel
